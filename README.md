@@ -2,9 +2,7 @@
 
 A solar-powered sensor node for gardens and greenhouses. It measures soil moisture, soil temperature, air temperature and humidity, then reports everything to Home Assistant over Wi-Fi. It can also switch a 12/24 V irrigation valve or pump.
 
-| Top layer | Both layers (bottom traces in blue) |
-|---|---|
-| ![Top of the board](pcb/render_top.png) | ![Top and bottom copper](pcb/render_both_layers.png) |
+![Top of the board](pcb/render_top.png)
 
 **Status:** design complete (rev A). It hasn't been fabricated, so treat it as untested hardware.
 
