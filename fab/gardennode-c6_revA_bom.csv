@@ -1,0 +1,41 @@
+Item,Qty,References,Value,Footprint,Manufacturer,MPN,US distributors,Approved alternate,Populate
+1,1,BT1,18650 holder,BatteryHolder_Keystone_1042_1x18650,Keystone,1042,"DK, MO",1042P (polarized),Yes
+2,1,C1,4.7uF 25V,C_0805_2012Metric,Samsung Electro-Mechanics,CL21A475KAQNNNE,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+3,4,C2 C3 C4 C11,10uF 10V,C_0805_2012Metric,Samsung Electro-Mechanics,CL21A106KPFNNNE,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+4,2,C5 C6,22uF 10V,C_0805_2012Metric,Samsung Electro-Mechanics,CL21A226MPQNNNE,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+5,3,C7 C9 C10,100nF,C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KB8NNNC,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+6,1,C8,1uF,C_0603_1608Metric,Samsung Electro-Mechanics,CL10A105KB8NNNC,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+7,2,C12 C13,10nF,C_0603_1608Metric,Samsung Electro-Mechanics,CL10B103KB8NNNC,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+8,1,C14,1uF 50V,C_0805_2012Metric,Samsung Electro-Mechanics,CL21B105KBFNNNE,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+9,3,D1 D2 D3,B340A,D_SMA,Diodes Inc,B340A-13-F,"DK, MO",B340A-E3/61T (Vishay),Yes
+10,1,D4,green,LED_0603_1608Metric,Lite-On,LTST-C191KGKT,"DK, MO",,Yes
+11,1,D5,SMAJ12A,D_SMA,Littelfuse,SMAJ12A,"DK, MO",SMAJ12A-13-F (Diodes),Yes
+12,1,D6,SMAJ26A,D_SMA,Littelfuse,SMAJ26A,"DK, MO",SMAJ26A-13-F (Diodes),Yes
+13,1,J1,USB-C 5V / programming,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,GCT,USB4105-GF-A,"DK, MO",USB4105-GF-A-060,Yes
+14,1,J2,SOLAR 5-9V,"TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",Phoenix Contact,1984617,"DK, MO",,Yes
+15,1,J3,SOIL1,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,JST,B3B-PH-K-S(LF)(SN),"DK, MO",,Yes
+16,1,J4,SOIL2,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,JST,B3B-PH-K-S(LF)(SN),"DK, MO",,Yes
+17,1,J5,1-WIRE,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,JST,B3B-PH-K-S(LF)(SN),"DK, MO",,Yes
+18,1,J6,QWIIC,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST,SM04B-SRSS-TB(LF)(SN),"DK, MO",,Yes
+19,1,J7,VALVE 5-24V,"TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal",Phoenix Contact,1984633,"DK, MO",,Yes
+20,1,J8,UART (DNP),PinHeader_1x04_P2.54mm_Vertical,-,"PRT-00116 (SparkFun) or any 0.1"" header",-,,DNP
+21,1,J9,EXPANSION (DNP),PinHeader_1x06_P2.54mm_Vertical,-,"PRT-00116 (SparkFun) or any 0.1"" header",-,,DNP
+22,2,Q1 Q3,DMG2305UX,SOT-23,Diodes Inc,DMG2305UX-7,"DK, MO",DMG2307L-7,Yes
+23,1,Q2,DMN3404L,SOT-23,Diodes Inc,DMN3404L-7,"DK, MO",DMG3404L-7,Yes
+24,2,R1 R2,5.1k,R_0603_1608Metric,Yageo,RC0603FR-075K1L,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+25,1,R3,1.5k 1%,R_0603_1608Metric,Yageo,RC0603FR-071K5L,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+26,1,R4,1.13k 1%,R_0603_1608Metric,Yageo,RC0603FR-071K13L,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+27,4,R5 R6 R15 R23,100k,R_0603_1608Metric,Yageo,RC0603FR-07100KL,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+28,5,R7 R8 R9 R24 R25,10k,R_0603_1608Metric,Yageo,RC0603FR-0710KL,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+29,3,R10 R16 R17,1k,R_0603_1608Metric,Yageo,RC0603FR-071KL,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+30,3,R11 R12 R13,1M 1%,R_0603_1608Metric,Yageo,RC0603FR-071ML,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+31,1,R14,330k 1%,R_0603_1608Metric,Yageo,RC0603FR-07330KL,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+32,3,R18 R20 R21,4.7k,R_0603_1608Metric,Yageo,RC0603FR-074K7L,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+33,2,R19 R22,100R,R_0603_1608Metric,Yageo,RC0603FR-07100RL,"DK, MO","any AEC/X7R-equivalent 0603/0805 part, same value/voltage/tolerance",Yes
+34,1,SW1,RESET,SW_Push_1P1T_NO_CK_KMR2,C&K,KMR221GLFS,"DK, MO",,Yes
+35,1,SW2,BOOT,SW_Push_1P1T_NO_CK_KMR2,C&K,KMR221GLFS,"DK, MO",,Yes
+36,1,TH1,10k NTC B3380,R_0603_1608Metric,Murata,NCP18XH103F03RB,"DK, MO",NTCG163JF103FT1 (TDK),Yes
+37,1,U1,BQ24074,VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm,Texas Instruments,BQ24074RGTR,"DK, MO, TI.com",BQ24074RGTT (small reel),Yes
+38,1,U2,TLV75733P,SOT-23-5,Texas Instruments,TLV75733PDBVR,"DK, MO, TI.com","TLV75733PDYDR, TLV75533PDBVR (0.5 A)",Yes
+39,1,U3,SP0503BAHT,SOT-143,Littelfuse,SP0503BAHTG,"DK, MO",,Yes
+40,1,U4,ESP32-C6-WROOM-1-N8,ESP32-C6-WROOM-1,Espressif,ESP32-C6-WROOM-1-N8,"DK, MO",ESP32-C6-WROOM-1-N4 (4 MB flash),Yes
