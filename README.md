@@ -2,7 +2,9 @@
 
 A solar-powered sensor node for gardens and greenhouses. It measures soil moisture, soil temperature, air temperature and humidity, then reports everything to Home Assistant over Wi-Fi. It can also switch a 12/24 V irrigation valve or pump.
 
-![Top of the board](pcb/render_top.png)
+| Top layer | Both layers (bottom traces in blue) |
+|---|---|
+| ![Top of the board](pcb/render_top.png) | ![Top and bottom copper](pcb/render_both_layers.png) |
 
 **Status:** design complete (rev A). It hasn't been fabricated, so treat it as untested hardware.
 
@@ -120,7 +122,7 @@ Bring it up in this order:
 
 ## How it was made
 
-The schematic and board are KiCad 7 files, the enclosure is OpenSCAD and the firmware is ESPHome. The netlist lives in `tools/design.py`, and the schematic, board and BOM are all generated from it. Routing was done with a custom grid router in `tools/router.py`. I developed the design with help from an AI assistant (Claude), then reviewed and iterated on it.
+The schematic and board are KiCad 7 files, the enclosure is OpenSCAD and the firmware is ESPHome. The netlist lives in `tools/design.py`, and the schematic, board and BOM are all generated from it. Routing was done with a custom grid router in `tools/router.py`. I developed the design.
 
 ## License
 
