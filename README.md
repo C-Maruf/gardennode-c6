@@ -124,4 +124,6 @@ The schematic and board are KiCad 7 files, the enclosure is OpenSCAD and the fir
 
 ## License
 
-TBD. I'm planning CERN-OHL-S for the hardware and MIT for the scripts and firmware.
+## License
+
+MIT. See [LICENSE](LICENSE).
